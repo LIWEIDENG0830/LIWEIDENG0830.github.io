@@ -113,4 +113,4 @@ My research interest includes neural machine translation and computer vision. I 
 - 2023: IJCAI, CIKM
 
 #### Journal Invited Reviewer
-- TKDE, Information Fusion, Information Sciences
+- TKDE, Information Processing & Management
