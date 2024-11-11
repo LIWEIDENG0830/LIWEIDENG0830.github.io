@@ -27,11 +27,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*: &nbsp;🎉🎉 One paper is accepted by VLDB 2025. 
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted by KDD 2024. 
+- *2023.11*: &nbsp;🎉🎉 Three papers are accepted by ICDE 2024.
 
 # 📝 Publications 
 
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,18 +47,38 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+1. **Liwei Deng**, Tianfu Wang, Yan Zhao, Kai Zheng. MILLION: A General Multi-Objective Framework with Controllable Risk for Portfolio Management. In PVLDB 2025.
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2014.09 - 2018.06*, Taiyuan University of Technology, Bachelor
+  - Information and Computing Science, School of Mathematics
+- *2018.09 - 2021.06*, University of Electronic Science and Technology of China, Master
+  - Computer Science and Technology, School of Computer Science and Engineering
+- *2021.09 - present*, University of Electronic Science and Technology of China, Ph.D.
+  - Computer Science and Technology, School of Computer Science and Engineering
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- *2019.09 - 2020.07*, Huawei Cloud Database Innovation Lab, Huawei Technologies Co. Ltd., Chengdu, China.
+  - Time Series Analysis
+- *2023.08 - 2024.05*, Microsoft, Suzhou, China.
+  - Finance Technology
+  - Mentor: [Nicholas Jing Yuan](https://scholar.google.com/citations?user=B-d1EHAAAAAJ&hl=zh-CN)
+
+# 🎖 Honors and Awards
+- Second-class People's Scholarship (2022, 2023, 2024)
+- Second-class People's Scholarship (2020)
+- First-class People's Scholarship (2019)
+- First-class People's Scholarship (2015, 2016, 2017)
+
+# ⏳ Professional Services
+
+#### PC Member & Reviewer
+- 2024: KDD, IJCAI, CIKM
+- 2023: IJCAI, CIKM
+
+#### Journal Invited Reviewer
+- TKDE, Information Fusion, Information Sciences
