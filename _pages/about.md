@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a fourth year PhD student at [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Prof. [Kai Zheng](https://zheng-kai.com/). Previously, I received my M.E. and B.E. degree from University of Electronic Science and Technology of China and Taiyuan University of Technology in 2018 and 2021, respectively. 
+I'm a fourth year PhD student at [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Prof. [Kai Zheng](https://zheng-kai.com/). Moreover, I also under the supervision of Dr. [Yan Zhao](https://yan20191113.github.io), who is an an Associate Professor with Aalborg University. Previously, I received my M.E. and B.E. degree from University of Electronic Science and Technology of China and Taiyuan University of Technology in 2018 and 2021, respectively. 
 
 My research interests include spatio-temporal data mining, finance technology, and vector database. 
 
