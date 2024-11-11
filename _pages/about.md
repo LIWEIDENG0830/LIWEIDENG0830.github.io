@@ -82,7 +82,7 @@ My research interest includes neural machine translation and computer vision. I 
 23. Hao Sun, Zijian Wu, Yue Cui, **Liwei Deng**, Yan Zhao, Kai Zheng. Personalized dynamic knowledge-aware recommendation with hybrid explanations. In DASFAA 2021.
 24. Yue Cui, **Liwei Deng**, Yan Zhao, Bin Yao, Vincent W Zheng, Kai Zheng. Hidden poi ranking with spatial crowdsourcing. In KDD 2019.
 
-&emsp; &emsp; &emsp; **Note**: <sup>#</sup> and <sup>+</sup> indicate the corresponding author and co-first author
+**Note**: <sup>#</sup> and <sup>+</sup> indicate the corresponding author and co-first author
 
 # 📖 Educations
 - *2014.09 - 2018.06*, Taiyuan University of Technology, Bachelor
