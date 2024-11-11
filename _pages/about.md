@@ -51,7 +51,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Selected Journal Papers**
 1. Yan Zhao, Kai Zheng, Ziwei Wang, **Liwei Deng**, Bin Yang, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou. Coalition-based task assignment with priority-aware fairness in spatial crowdsourcing. In VLDBJ.
-2. Yan Zhao, **Liwei Deng**, Kai Zheng. AdaTaskRec: An adaptive task recommendation framework in spatial crowdsourcing. In TOIS. (**Co-First Authors**)
+2. Yan Zhao<sup>+</sup>, **Liwei Deng<sup>+</sup>**, Kai Zheng. AdaTaskRec: An adaptive task recommendation framework in spatial crowdsourcing. In TOIS.
 3. **Liwei Deng**, Hao Sun, Rui Sun, Yan Zhao, Han Su. Efficient and effective similar subtrajectory search: a spatial-aware comprehension approach. In TIST.
 4. Xuanhao Chen, **Liwei Deng**, Yan Zhao, Xiaofang Zhou, Kai Zheng. Community-based influence maximization in location-based social network. In WWWJ.
 
