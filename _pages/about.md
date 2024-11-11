@@ -64,7 +64,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - *2019.09 - 2020.07*, Huawei Cloud Database Innovation Lab, Huawei Technologies Co. Ltd., Chengdu, China.
   - Time Series Analysis
-- *2023.08 - 2024.05*, Microsoft, Suzhou, China.
+- *2023.08 - 2024.05*, Microsoft Internet Engineering Institute, Microsoft, Suzhou, China.
   - Finance Technology
   - Mentor: [Nicholas Jing Yuan](https://scholar.google.com/citations?user=B-d1EHAAAAAJ&hl=zh-CN)
 
