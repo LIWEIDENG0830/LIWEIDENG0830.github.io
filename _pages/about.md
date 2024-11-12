@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a fourth year PhD student at [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Prof. [Kai Zheng](https://zheng-kai.com/). Moreover, I am also under the supervision of Dr. [Yan Zhao](https://yan20191113.github.io), who is an Associate Professor with Aalborg University currently. Previously, I received my M.E. and B.E. degree from University of Electronic Science and Technology of China and Taiyuan University of Technology in 2018 and 2021, respectively. 
 
-My research interests include spatio-temporal data mining, trajectory computing, finance technology, recommender system, vector database, and many other data-driven applications. 
+My research interests include spatio-temporal data mining, trajectory computing, finance technology, recommender system, vector database, and other data-driven applications. 
 
 <!-- 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
