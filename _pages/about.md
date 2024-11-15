@@ -30,8 +30,11 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by VLDB 2025. 
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by VLDB 2025. 
-- *2024.05*: &nbsp;🎉🎉 One paper is accepted by KDD 2024. 
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted by KDD 2024.
+
+<!--
 - *2023.11*: &nbsp;🎉🎉 Three papers are accepted by ICDE 2024.
+-->
 
 # 📝 Publications 
 
