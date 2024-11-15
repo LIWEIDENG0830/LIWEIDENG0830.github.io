@@ -62,7 +62,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Selected Conference Papers**
 
-1. **\[VLDB\]** Liwei Deng, Penghao Chen, Ximu Zeng, Tianfu Wang, Yan Zhao, Kai Zheng. Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search. In PVLDB 2025.
+1. **\[VLDB\]** **Liwei Deng**, Penghao Chen, Ximu Zeng, Tianfu Wang, Yan Zhao, Kai Zheng. Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search. In PVLDB 2025.
 2. **\[Arxiv\]** Tianfu Wang, Long Yang, Chao Wang, Chuan Qin, **Liwei Deng**, Li Shen, Hui Xiong. Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. Arxiv Preprint 2025.
 3. **\[VLDB\]** **Liwei Deng**, Tianfu Wang, Yan Zhao, Kai Zheng. MILLION: A General Multi-Objective Framework with Controllable Risk for Portfolio Management. In PVLDB 2025.
 4. **\[KDD\]** Tianfu Wang, **Liwei Deng**, Chao Wang, Jianxun Lian, Yue Yan, Nicholas Jing Yuan, Qi Zhang, Hui Xiong. COMET: NFT Price Prediction with Wallet Profiling. In KDD 2025.
