@@ -26,6 +26,7 @@ My research interest includes neural machine translation and computer vision. I 
 <a href='https://scholar.google.com/citations?user=IjStiDYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fliweideng0830%2Fliweideng0830.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 -->
 
+<font color="red">Currently, I am looking for job. If you are interested, please feel free to contact me via email denglw0830atgmail.com.</font>
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by VLDB 2025. 
