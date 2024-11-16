@@ -56,7 +56,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 **Underreview**
-1. **\[ICDE\]**Liwei Deng, Fei Wang, Tianfu Wang, Yan Zhao, Yuyang Xia, Kai Zheng. Exact and Efficient Similar Subtrajectory Search: Integrating Constraints and Simplification. ICDE 2025. 
+1. **\[ICDE\]** Liwei Deng, Fei Wang, Tianfu Wang, Yan Zhao, Yuyang Xia, Kai Zheng. Exact and Efficient Similar Subtrajectory Search: Integrating Constraints and Simplification. ICDE 2025. 
 
 **Selected Journal Papers**
 1. **\[VLDBJ\]** Yan Zhao, Kai Zheng, Ziwei Wang, **Liwei Deng**, Bin Yang, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou. Coalition-based task assignment with priority-aware fairness in spatial crowdsourcing. In VLDBJ.
