@@ -62,7 +62,7 @@ My research interest includes neural machine translation and computer vision. I 
 3. **\[Arxiv\]** Yan Zhao, **Liwei Deng**, Xuanhao Chen, Chenjuan Guo, Bin Yang, Tung Kieu, Feiteng Huang, Torben Bach Pedersen, Kai Zheng, Christian S Jensen. A comparative study on unsupervised anomaly detection for time series: Experiments and analysis. Arxiv Preprint 2022. \[[paper](https://arxiv.org/abs/2209.04635)\]
 
 **Selected Journal Papers**
-1. **\[VLDBJ\]** Yan Zhao, Kai Zheng, Ziwei Wang, **Liwei Deng**, Bin Yang, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou. Coalition-based task assignment with priority-aware fairness in spatial crowdsourcing. In VLDBJ.
+1. **\[VLDBJ\]** Yan Zhao, Kai Zheng, Ziwei Wang, **Liwei Deng**, Bin Yang, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou. Coalition-based task assignment with priority-aware fairness in spatial crowdsourcing. In VLDBJ. \[[paper](https://link.springer.com/article/10.1007/s00778-023-00802-3)\]
 2. **\[TOIS\]** Yan Zhao<sup>+</sup>, **Liwei Deng<sup>+</sup>**, Kai Zheng. AdaTaskRec: An adaptive task recommendation framework in spatial crowdsourcing. In TOIS. \[[paper](https://dl.acm.org/doi/full/10.1145/3593582)\]
 3. **\[TIST\]** **Liwei Deng**, Hao Sun, Rui Sun, Yan Zhao, Han Su. Efficient and effective similar subtrajectory search: a spatial-aware comprehension approach. In TIST. \[[paper](https://dl.acm.org/doi/full/10.1145/3456723)\]
 4. **\[WWWJ\]** Xuanhao Chen, **Liwei Deng**, Yan Zhao, Xiaofang Zhou, Kai Zheng. Community-based influence maximization in location-based social network. In WWWJ. \[[paper](https://link.springer.com/article/10.1007/s11280-021-00935-x)\]
