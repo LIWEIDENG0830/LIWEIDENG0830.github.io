@@ -58,7 +58,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Underreview**
 1. **\[ICDE\]** **Liwei Deng**, Fei Wang, Tianfu Wang, Yan Zhao, Yuyang Xia, Kai Zheng. Exact and Efficient Similar Subtrajectory Search: Integrating Constraints and Simplification. ICDE 2025.
-2. **\[Arxiv\]** Tianfu Wang, Long Yang, Chao Wang, Chuan Qin, **Liwei Deng**, Li Shen, Hui Xiong. Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. Arxiv Preprint 2025. [code](https://github.com/GeminiLight/conal-vne)
+2. **\[Arxiv\]** Tianfu Wang, Long Yang, Chao Wang, Chuan Qin, **Liwei Deng**, Li Shen, Hui Xiong. Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. Arxiv Preprint 2025. \[[code](https://github.com/GeminiLight/conal-vne)\]
 3. **\[Arxiv\]** Yan Zhao, **Liwei Deng**, Xuanhao Chen, Chenjuan Guo, Bin Yang, Tung Kieu, Feiteng Huang, Torben Bach Pedersen, Kai Zheng, Christian S Jensen. A comparative study on unsupervised anomaly detection for time series: Experiments and analysis. Arxiv Preprint 2022.
 
 **Selected Journal Papers**
