@@ -70,26 +70,26 @@ My research interest includes neural machine translation and computer vision. I 
 **Selected Conference Papers**
 
 1. **\[KDD\]** Yuchen Fang, Yuxuan Liang, Bo Hui, Zezhi Shao, **Liwei Deng**, Xu Liu, Xinke Jiang, Kai Zheng. Efficient Large-Scale Traffic Forecasting with Transformers: A Spatial Data Management Perspective. In KDD 2025.
-2. **\[VLDB\]** **Liwei Deng**, Penghao Chen, Ximu Zeng, Tianfu Wang, Yan Zhao, Kai Zheng. Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search. In PVLDB 2025. [code](https://github.com/Ur-Eine/DADE)
-3. **\[VLDB\]** **Liwei Deng**, Tianfu Wang, Yan Zhao, Kai Zheng. MILLION: A General Multi-Objective Framework with Controllable Risk for Portfolio Management. In PVLDB 2025. [code](https://github.com/LIWEIDENG0830/MILLION)
+2. **\[VLDB\]** **Liwei Deng**, Penghao Chen, Ximu Zeng, Tianfu Wang, Yan Zhao, Kai Zheng. Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search. In PVLDB 2025. \[[code](https://github.com/Ur-Eine/DADE)\]
+3. **\[VLDB\]** **Liwei Deng**, Tianfu Wang, Yan Zhao, Kai Zheng. MILLION: A General Multi-Objective Framework with Controllable Risk for Portfolio Management. In PVLDB 2025. \[[code](https://github.com/LIWEIDENG0830/MILLION)\]
 4. **\[KDD\]** Tianfu Wang, **Liwei Deng**, Chao Wang, Jianxun Lian, Yue Yan, Nicholas Jing Yuan, Qi Zhang, Hui Xiong. COMET: NFT Price Prediction with Wallet Profiling. In KDD 2025.
 5. **\[ICDE\]** **Liwei Deng**, Yan Zhao, Yue Cui, Yuyang Xia, Jin Chen, Kai Zheng. Task Recommendation in Spatial Crowdsourcing: A Trade-Off Between Diversity and Coverage. In ICDE 2024.
 6. **\[ICDE\]** **Liwei Deng**, Yan Zhao, Jin Chen, Shuncheng Liu, Yuyang Xia, Kai Zheng. Learning to Hash for Trajectory Similarity Computation and Search. In ICDE 2024.
-7. **\[ICDE\]** Yuyang Xia, Shuncheng Liu, Quanlin Yu, **Liwei Deng**, You Zhang, Han Su, Kai Zheng. Parameterized Decision-Making with Multi-Modality Perception for Autonomous Driving. In ICDE 2024. [code](https://github.com/xiayuyang/AUTO)
-8. **\[ACL\]** Hao Sun, Yang Li, **Liwei Deng**, Bowen Li, Binyuan Hui, Binhua Li, Yunshi Lan, Yan Zhang, Yongbin Li. History semantic graph enhanced conversational KBQA with temporal information modeling. In ACL 2023.
+7. **\[ICDE\]** Yuyang Xia, Shuncheng Liu, Quanlin Yu, **Liwei Deng**, You Zhang, Han Su, Kai Zheng. Parameterized Decision-Making with Multi-Modality Perception for Autonomous Driving. In ICDE 2024. \[[code](https://github.com/xiayuyang/AUTO)\]
+8. **\[ACL\]** Hao Sun, Yang Li, **Liwei Deng**, Bowen Li, Binyuan Hui, Binhua Li, Yunshi Lan, Yan Zhang, Yongbin Li. History semantic graph enhanced conversational KBQA with temporal information modeling. In ACL 2023. \[[code](https://github.com/sunhaonlp/HSGE)\]
 9. **\[DASFAA\]** **Liwei Deng**, Yan Zhao, Hao Sun, Changjie Yang, Jiandong Xie, Kai Zheng. Fusing Local and Global Mobility Patterns for Trajectory Recovery. In DASFAA 2023.
 10. **\[DASFAA\]** Yupu Zhang, **Liwei Deng**, Yan Zhao, Jin Chen, Jiandong Xie, Kai Zheng. SimiDTR: Deep Trajectory Recovery with Enhanced Trajectory Similarity. In DASFAA 2023. **(Best Student Paper Award Runner Up)**
-11. **\[WSDM\]** **Liwei Deng**, Hao Sun, Yan Zhao, Shuncheng Liu, Kai Zheng. S2tul: A semi-supervised framework for trajectory-user linking. In WSDM 2023. [code](https://github.com/LIWEIDENG0830/S2TUL)
+11. **\[WSDM\]** **Liwei Deng**, Hao Sun, Yan Zhao, Shuncheng Liu, Kai Zheng. S2tul: A semi-supervised framework for trajectory-user linking. In WSDM 2023. \[[code](https://github.com/LIWEIDENG0830/S2TUL)\]
 12. **\[WSDM\]** Xuanhao Chen, **Liwei Deng**, Yan Zhao, Kai Zheng. Adversarial autoencoder for unsupervised time series anomaly detection and interpretation. In WSDM 2023.
 13. **\[CIKM\]** Jiaxin Liu, **Liwei Deng**, Hao Miao, Yan Zhao, Kai Zheng. Task assignment with federated preference learning in spatial crowdsourcing. In CIKM 2022.
-14. **\[CIKM\]** **Liwei Deng**, Yan Zhao, Zidan Fu, Hao Sun, Shuncheng Liu, Kai Zheng. Efficient trajectory similarity computation with contrastive learning. In CIKM 2022. [code](https://github.com/LIWEIDENG0830/CL-TSim)
+14. **\[CIKM\]** **Liwei Deng**, Yan Zhao, Zidan Fu, Hao Sun, Shuncheng Liu, Kai Zheng. Efficient trajectory similarity computation with contrastive learning. In CIKM 2022. \[[code](https://github.com/LIWEIDENG0830/CL-TSim)\]
 15. **\[CIKM\]** Shuncheng Liu, Xu Chen, Ziniu Wu, **Liwei Deng**, Han Su, Kai Zheng. HeGA: heterogeneous graph aggregation network for trajectory prediction in high-density traffic. In CIKM 2022.
 16. **\[KDD\]** Jin Chen, Guanyu Ye, Yan Zhao, Shuncheng Liu, **Liwei Deng**, Xu Chen, Rui Zhou, Kai Zheng. Efficient join order selection learning with graph-based representation. In KDD 2022.
 17. **\[MDM\]** Dazhuo Qiu, Yihao Wang, Yan Zhao, **Liwei Deng**, Kai Zheng. CityCross: Transferring Attention-based Knowledge for Location-based Advertising Recommendation. In MDM 2022. **(Best Industry, Systems and Apps Award)**
 18. **\[WWW\]** Yan Zhao, Xuanhao Chen, **Liwei Deng**, Tung Kieu, Chenjuan Guo, Bin Yang, Kai Zheng, Christian S Jensen. Outlier detection for streaming task assignment in crowdsourcing. In WWW 2022.
 19. **\[ICBK\]** Bingke Xu, Yue Cui, Zipeng Sun, **Liwei Deng**, Kai Zheng. Fair representation learning in knowledge-aware recommendation. In ICBK 2021.
 20. **\[CCIS\]** Yan Zhao, Lianming Zhou, **Liwei Deng**, Vincent W Zheng, Hongzhi Yin, Kai Zheng. Subgraph convolutional network for recommendation. In CCIS 2021.
-21. **\[CIKM\]** Hao Sun<sup>+</sup>, Changjie Yang<sup>+</sup>, **Liwei Deng<sup>+</sup>**, Fan Zhou, Feiteng Huang, Kai Zheng. Periodicmove: Shift-aware human mobility recovery with graph neural network. In CIKM 2021. [code](https://github.com/sunhaonlp/PeriodicMove)
+21. **\[CIKM\]** Hao Sun<sup>+</sup>, Changjie Yang<sup>+</sup>, **Liwei Deng<sup>+</sup>**, Fan Zhou, Feiteng Huang, Kai Zheng. Periodicmove: Shift-aware human mobility recovery with graph neural network. In CIKM 2021. \[[code](https://github.com/sunhaonlp/PeriodicMove)\]
 22. **\[VLDB\]** Yue Cui, Kai Zheng, Dingshan Cui, Jiandong Xie, **Liwei Deng**, Feiteng Huang, Xiaofang Zhou. METRO: a generic graph neural network framework for multivariate time series forecasting. In VLDB 2021.
 23. **\[ICDE\]** Xuanhao Chen, **Liwei Deng**, Feiteng Huang, Chengwei Zhang, Zongquan Zhang, Yan Zhao, Kai Zheng. Daemon: Unsupervised anomaly detection and interpretation for multivariate time series. In ICDE 2021.
 24. **\[DASFAA\]** Hao Sun, Zijian Wu, Yue Cui, **Liwei Deng**, Yan Zhao, Kai Zheng. Personalized dynamic knowledge-aware recommendation with hybrid explanations. In DASFAA 2021.
