@@ -58,8 +58,9 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 **Underreview**
-1. **\[Arxiv\]** Tianfu Wang, Long Yang, Chao Wang, Chuan Qin, **Liwei Deng**, Li Shen, Hui Xiong. Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. Arxiv Preprint 2025. \[[paper](https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/conal-vne)\]
-2. **\[Arxiv\]** Yan Zhao, **Liwei Deng**, Xuanhao Chen, Chenjuan Guo, Bin Yang, Tung Kieu, Feiteng Huang, Torben Bach Pedersen, Kai Zheng, Christian S Jensen. A comparative study on unsupervised anomaly detection for time series: Experiments and analysis. Arxiv Preprint 2022. \[[paper](https://arxiv.org/abs/2209.04635)\]
+1. **\[ICDE Second Round Submitted\]** Liwei Deng, Penghao Chen, Ximu Zeng, Yuchen Fang, Jin Chen, Yan Zhao. Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search. In ICDE 2025.
+2. **\[Arxiv\]** Tianfu Wang, Long Yang, Chao Wang, Chuan Qin, **Liwei Deng**, Li Shen, Hui Xiong. Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. Arxiv Preprint 2025. \[[paper](https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/conal-vne)\]
+3. **\[Arxiv\]** Yan Zhao, **Liwei Deng**, Xuanhao Chen, Chenjuan Guo, Bin Yang, Tung Kieu, Feiteng Huang, Torben Bach Pedersen, Kai Zheng, Christian S Jensen. A comparative study on unsupervised anomaly detection for time series: Experiments and analysis. Arxiv Preprint 2022. \[[paper](https://arxiv.org/abs/2209.04635)\]
 
 **Selected Journal Papers**
 1. **\[VLDBJ\]** Yan Zhao, Kai Zheng, Ziwei Wang, **Liwei Deng**, Bin Yang, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou. Coalition-based task assignment with priority-aware fairness in spatial crowdsourcing. In VLDBJ. \[[paper](https://link.springer.com/article/10.1007/s00778-023-00802-3)\]
