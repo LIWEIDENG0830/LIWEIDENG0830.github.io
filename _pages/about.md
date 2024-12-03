@@ -128,7 +128,7 @@ My research interest includes neural machine translation and computer vision. I 
 #### PC Member and Reviewer
 - 2025: KDD, IJCAI
 - 2024: KDD, IJCAI, CIKM
-- 2023: IJCAI, CIKM, AAAI
+- 2023: IJCAI, CIKM, AAAI, BDMS@DASFAA
 
 #### Journal Invited Reviewer
 - TKDE, Information Processing and Management, IEEE Transactions on Cybernetics
