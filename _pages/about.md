@@ -57,17 +57,6 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
-**Underreview**
-1. **\[ICDE Second Round Submitted\]** **Liwei Deng**, Penghao Chen, Ximu Zeng, Yuchen Fang, Jin Chen, Yan Zhao. Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search. In ICDE 2025.
-2. **\[Arxiv\]** Tianfu Wang, Long Yang, Chao Wang, Chuan Qin, **Liwei Deng**, Li Shen, Hui Xiong. Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. Arxiv Preprint 2025. \[[paper](https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/conal-vne)\]
-3. **\[Arxiv\]** Yan Zhao, **Liwei Deng**, Xuanhao Chen, Chenjuan Guo, Bin Yang, Tung Kieu, Feiteng Huang, Torben Bach Pedersen, Kai Zheng, Christian S Jensen. A comparative study on unsupervised anomaly detection for time series: Experiments and analysis. Arxiv Preprint 2022. \[[paper](https://arxiv.org/abs/2209.04635)\]
-
-**Selected Journal Papers**
-1. **\[VLDBJ\]** Yan Zhao, Kai Zheng, Ziwei Wang, **Liwei Deng**, Bin Yang, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou. Coalition-based task assignment with priority-aware fairness in spatial crowdsourcing. In VLDBJ. \[[paper](https://link.springer.com/article/10.1007/s00778-023-00802-3)\]
-2. **\[TOIS\]** Yan Zhao<sup>+</sup>, **Liwei Deng<sup>+</sup>**, Kai Zheng. AdaTaskRec: An adaptive task recommendation framework in spatial crowdsourcing. In TOIS. \[[paper](https://dl.acm.org/doi/full/10.1145/3593582)\]
-3. **\[TIST\]** **Liwei Deng**, Hao Sun, Rui Sun, Yan Zhao, Han Su. Efficient and effective similar subtrajectory search: a spatial-aware comprehension approach. In TIST. \[[paper](https://dl.acm.org/doi/full/10.1145/3456723)\]
-4. **\[WWWJ\]** Xuanhao Chen, **Liwei Deng**, Yan Zhao, Xiaofang Zhou, Kai Zheng. Community-based influence maximization in location-based social network. In WWWJ. \[[paper](https://link.springer.com/article/10.1007/s11280-021-00935-x)\]
-
 **Selected Conference Papers**
 
 1. **\[ICDE\]** **Liwei Deng**, Fei Wang, Tianfu Wang, Yan Zhao, Yuyang Xia, Kai Zheng. Exact and Efficient Similar Subtrajectory Search: Integrating Constraints and Simplification. In ICDE 2025.
@@ -96,6 +85,18 @@ My research interest includes neural machine translation and computer vision. I 
 24. **\[ICDE\]** Xuanhao Chen, **Liwei Deng**, Feiteng Huang, Chengwei Zhang, Zongquan Zhang, Yan Zhao, Kai Zheng. Daemon: Unsupervised anomaly detection and interpretation for multivariate time series. In ICDE 2021. \[[paper](https://ieeexplore.ieee.org/abstract/document/9458835)\]
 25. **\[DASFAA\]** Hao Sun, Zijian Wu, Yue Cui, **Liwei Deng**, Yan Zhao, Kai Zheng. Personalized dynamic knowledge-aware recommendation with hybrid explanations. In DASFAA 2021. \[[paper](https://link.springer.com/chapter/10.1007/978-3-030-73200-4_10)\]
 26. **\[KDD\]** Yue Cui, **Liwei Deng**, Yan Zhao, Bin Yao, Vincent W Zheng, Kai Zheng. Hidden poi ranking with spatial crowdsourcing. In KDD 2019. \[[paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330844)\]
+
+**Selected Journal Papers**
+1. **\[VLDBJ\]** Yan Zhao, Kai Zheng, Ziwei Wang, **Liwei Deng**, Bin Yang, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou. Coalition-based task assignment with priority-aware fairness in spatial crowdsourcing. In VLDBJ. \[[paper](https://link.springer.com/article/10.1007/s00778-023-00802-3)\]
+2. **\[TOIS\]** Yan Zhao<sup>+</sup>, **Liwei Deng<sup>+</sup>**, Kai Zheng. AdaTaskRec: An adaptive task recommendation framework in spatial crowdsourcing. In TOIS. \[[paper](https://dl.acm.org/doi/full/10.1145/3593582)\]
+3. **\[TIST\]** **Liwei Deng**, Hao Sun, Rui Sun, Yan Zhao, Han Su. Efficient and effective similar subtrajectory search: a spatial-aware comprehension approach. In TIST. \[[paper](https://dl.acm.org/doi/full/10.1145/3456723)\]
+4. **\[WWWJ\]** Xuanhao Chen, **Liwei Deng**, Yan Zhao, Xiaofang Zhou, Kai Zheng. Community-based influence maximization in location-based social network. In WWWJ. \[[paper](https://link.springer.com/article/10.1007/s11280-021-00935-x)\]
+
+**Underreview**
+1. **\[ICDE Second Round Submitted\]** **Liwei Deng**, Penghao Chen, Ximu Zeng, Yuchen Fang, Jin Chen, Yan Zhao. Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search. In ICDE 2025.
+2. **\[Arxiv\]** Tianfu Wang, Long Yang, Chao Wang, Chuan Qin, **Liwei Deng**, Li Shen, Hui Xiong. Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. Arxiv Preprint 2025. \[[paper](https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/conal-vne)\]
+3. **\[Arxiv\]** Yan Zhao, **Liwei Deng**, Xuanhao Chen, Chenjuan Guo, Bin Yang, Tung Kieu, Feiteng Huang, Torben Bach Pedersen, Kai Zheng, Christian S Jensen. A comparative study on unsupervised anomaly detection for time series: Experiments and analysis. Arxiv Preprint 2022. \[[paper](https://arxiv.org/abs/2209.04635)\]
+
 
 **Note**: <sup>#</sup> and <sup>+</sup> indicate the corresponding author and co-first author
 
