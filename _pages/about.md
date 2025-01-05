@@ -60,7 +60,7 @@ My research interest includes neural machine translation and computer vision. I 
 **Selected Conference Papers**
 
 1. **\[ICDE\]** **Liwei Deng**, Fei Wang, Tianfu Wang, Yan Zhao, Yuyang Xia, Kai Zheng. Exact and Efficient Similar Subtrajectory Search: Integrating Constraints and Simplification. In ICDE 2025.
-2. **\[KDD\]** Yuchen Fang, Yuxuan Liang, Bo Hui, Zezhi Shao, **Liwei Deng**, Xu Liu, Xinke Jiang, Kai Zheng. Efficient Large-Scale Traffic Forecasting with Transformers: A Spatial Data Management Perspective. In KDD 2025.
+2. **\[KDD\]** Yuchen Fang, Yuxuan Liang, Bo Hui, Zezhi Shao, **Liwei Deng**, Xu Liu, Xinke Jiang, Kai Zheng. Efficient Large-Scale Traffic Forecasting with Transformers: A Spatial Data Management Perspective. In KDD 2025. \[[Arxiv](https://arxiv.org/abs/2412.09972)\] \[[code](https://github.com/LMissher/PatchSTG)\]
 3. **\[VLDB\]** **Liwei Deng**, Penghao Chen, Ximu Zeng, Tianfu Wang, Yan Zhao, Kai Zheng. Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search. In PVLDB 2025. \[[Arxiv](https://arxiv.org/abs/2411.17229)\] \[[code](https://github.com/Ur-Eine/DADE)\]
 4. **\[VLDB\]** **Liwei Deng**, Tianfu Wang, Yan Zhao, Kai Zheng. MILLION: A General Multi-Objective Framework with Controllable Risk for Portfolio Management. In PVLDB 2025. \[[code](https://github.com/LIWEIDENG0830/MILLION)\]
 5. **\[KDD\]** Tianfu Wang, **Liwei Deng**, Chao Wang, Jianxun Lian, Yue Yan, Nicholas Jing Yuan, Qi Zhang, Hui Xiong. COMET: NFT Price Prediction with Wallet Profiling. In KDD 2024. \[[paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671621)\] 
