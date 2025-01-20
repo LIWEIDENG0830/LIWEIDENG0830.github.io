@@ -60,7 +60,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Selected Conference Papers**
 
-1. **\[WWW\]** Ximu Zeng, Liwei Deng, Penghao Chen, Xu Chen, Han Su, Kai Zheng. LIRA: A Learning-based Query-aware Parition Framework for Large-scale ANN Search. In WWW 2025.
+1. **\[WWW\]** Ximu Zeng, **Liwei Deng**, Penghao Chen, Xu Chen, Han Su, Kai Zheng. LIRA: A Learning-based Query-aware Parition Framework for Large-scale ANN Search. In WWW 2025.
 2. **\[ICDE\]** **Liwei Deng**, Fei Wang, Tianfu Wang, Yan Zhao, Yuyang Xia, Kai Zheng. Exact and Efficient Similar Subtrajectory Search: Integrating Constraints and Simplification. In ICDE 2025.
 3. **\[KDD\]** Yuchen Fang, Yuxuan Liang, Bo Hui, Zezhi Shao, **Liwei Deng**, Xu Liu, Xinke Jiang, Kai Zheng. Efficient Large-Scale Traffic Forecasting with Transformers: A Spatial Data Management Perspective. In KDD 2025. \[[Arxiv](https://arxiv.org/abs/2412.09972)\] \[[code](https://github.com/LMissher/PatchSTG)\]
 4. **\[VLDB\]** **Liwei Deng**, Penghao Chen, Ximu Zeng, Tianfu Wang, Yan Zhao, Kai Zheng. Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search. In PVLDB 2025. \[[Arxiv](https://arxiv.org/abs/2411.17229)\] \[[code](https://github.com/Ur-Eine/DADE)\]
