@@ -130,7 +130,7 @@ My research interest includes neural machine translation and computer vision. I 
 # ⏳ Professional Services
 
 #### PC Member and Reviewer
-- 2025: KDD, IJCAI
+- 2025: KDD, IJCAI, CIKM, BigData
 - 2024: KDD, IJCAI, CIKM
 - 2023: IJCAI, CIKM, AAAI, BDMS@DASFAA
 
