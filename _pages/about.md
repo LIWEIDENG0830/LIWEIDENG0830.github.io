@@ -120,6 +120,7 @@ My research interest includes neural machine translation and computer vision. I 
   - Mentor: [Nicholas Jing Yuan](https://scholar.google.com/citations?user=B-d1EHAAAAAJ&hl=zh-CN)
 
 # 🎖 Honors and Awards
+- UESTC Academic Newcomer Award (2025)
 - Best Student Paper Award Runner Up at DASFAA 2023
 - Second-class People's Scholarship (2022, 2023, 2024)
 - Best industry, systems and apps award at MDM 2022
