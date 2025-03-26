@@ -61,7 +61,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Selected Conference Papers**
 
-1. **\[ICDE 2025\]** Ximu Zeng, Jianxing Lin, Liwei Deng, Yuchen Fang, Yan Zhao, Kai Zheng. Optimizing Multi-Center Collaboration for Task Assignment in Spatial Crowdsoucing. In ICDE 2025. 
+1. **\[ICDE 2025\]** Ximu Zeng, Jianxing Lin, **Liwei Deng**, Yuchen Fang, Yan Zhao, Kai Zheng. Optimizing Multi-Center Collaboration for Task Assignment in Spatial Crowdsoucing. In ICDE 2025. 
 2. **\[ICDE 2025\]** **Liwei Deng**, Penghao Chen, Ximu Zeng, Yuchen Fang, Jin Chen, Yan Zhao. Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search. In ICDE 2025.
 3. **\[WWW 2025\]** Ximu Zeng, **Liwei Deng**, Penghao Chen, Xu Chen, Han Su, Kai Zheng. LIRA: A Learning-based Query-aware Parition Framework for Large-scale ANN Search. In WWW 2025. \[[code](https://github.com/SimoneZeng/LIRA-ANN-search)\]
 4. **\[ICDE 2025\]** **Liwei Deng**, Fei Wang, Tianfu Wang, Yan Zhao, Yuyang Xia, Kai Zheng. Exact and Efficient Similar Subtrajectory Search: Integrating Constraints and Simplification. In ICDE 2025.
