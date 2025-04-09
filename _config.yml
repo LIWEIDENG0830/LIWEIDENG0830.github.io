@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Liwei Deng 邓力玮"
-  avatar           : "images/HomepageFigure.png" # "images/running_cat.png"
+  avatar           : "images/github_photo.JPG" # "images/HomepageFigure.png" # "images/running_cat.png"
   bio              : "PhD Candidate"
   location         : "ChengDu, China"
   employer         :
