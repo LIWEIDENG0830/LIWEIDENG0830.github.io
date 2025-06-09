@@ -92,16 +92,17 @@ My research interest includes neural machine translation and computer vision. I 
 29. <span style="color:blue">[KDD 2019]</span> Yue Cui, **Liwei Deng**, Yan Zhao, Bin Yao, Vincent W Zheng, Kai Zheng. Hidden poi ranking with spatial crowdsourcing. \[[paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330844)\] <span style="color:red">**(CCF A)**</span>
 
 **Selected Journal Papers**
-1. **\[VLDBJ\]** Yan Zhao, Kai Zheng, Ziwei Wang, **Liwei Deng**, Bin Yang, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou. Coalition-based task assignment with priority-aware fairness in spatial crowdsourcing. In VLDBJ. \[[paper](https://link.springer.com/article/10.1007/s00778-023-00802-3)\]
-2. **\[TOIS\]** Yan Zhao<sup>+</sup>, **Liwei Deng<sup>+</sup>**, Kai Zheng. AdaTaskRec: An adaptive task recommendation framework in spatial crowdsourcing. In TOIS. \[[paper](https://dl.acm.org/doi/full/10.1145/3593582)\]
-3. **\[TIST\]** **Liwei Deng**, Hao Sun, Rui Sun, Yan Zhao, Han Su. Efficient and effective similar subtrajectory search: a spatial-aware comprehension approach. In TIST. \[[paper](https://dl.acm.org/doi/full/10.1145/3456723)\]
-4. **\[WWWJ\]** Xuanhao Chen, **Liwei Deng**, Yan Zhao, Xiaofang Zhou, Kai Zheng. Community-based influence maximization in location-based social network. In WWWJ. \[[paper](https://link.springer.com/article/10.1007/s11280-021-00935-x)\]
+1. <span style="color:blue">[VLDBJ]</span> Yan Zhao, Kai Zheng, Ziwei Wang, **Liwei Deng**, Bin Yang, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou. Coalition-based task assignment with priority-aware fairness in spatial crowdsourcing. \[[paper](https://link.springer.com/article/10.1007/s00778-023-00802-3)\] <span style="color:red">**(CCF A)**</span>
+2. <span style="color:blue">[TOIS]</span> Yan Zhao<sup>+</sup>, **Liwei Deng<sup>+</sup>**, Kai Zheng. AdaTaskRec: An adaptive task recommendation framework in spatial crowdsourcing. \[[paper](https://dl.acm.org/doi/full/10.1145/3593582)\] <span style="color:red">**(CCF A)**</span>
+3. <span style="color:blue">[TIST]</span> **Liwei Deng**, Hao Sun, Rui Sun, Yan Zhao, Han Su. Efficient and effective similar subtrajectory search: a spatial-aware comprehension approach. \[[paper](https://dl.acm.org/doi/full/10.1145/3456723)\]
+4. <span style="color:blue">[WWWJ]</span> Xuanhao Chen, **Liwei Deng**, Yan Zhao, Xiaofang Zhou, Kai Zheng. Community-based influence maximization in location-based social network. In WWWJ. \[[paper](https://link.springer.com/article/10.1007/s11280-021-00935-x)\] <span style="color:red">**(CCF B)**</span>
 
+<!--
 **Underreview**
 1. **\[KDD 2025\]** **Liwei Deng**, Penghao Chen, Ximu Zeng, Tianfu Wang, Yan Zhao, Kai Zheng. Accelerating Distance Comparison Operation for Maximum Inner Product Search. In KDD 2025. 
 2. **\[ICML 2025\]** Tianfu Wang, Long Yang, Chao Wang, Chuan Qin, **Liwei Deng**, Li Shen, Hui Xiong. Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. Arxiv Preprint 2025. \[[paper](https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/conal-vne)\]
 3. **\[Arxiv\]** Yan Zhao, **Liwei Deng**, Xuanhao Chen, Chenjuan Guo, Bin Yang, Tung Kieu, Feiteng Huang, Torben Bach Pedersen, Kai Zheng, Christian S Jensen. A comparative study on unsupervised anomaly detection for time series: Experiments and analysis. Arxiv Preprint 2022. \[[paper](https://arxiv.org/abs/2209.04635)\]
-
+-->
 
 **Note**: <sup>#</sup> and <sup>+</sup> indicate the corresponding author and co-first author
 
