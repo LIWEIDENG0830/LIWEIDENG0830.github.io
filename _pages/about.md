@@ -29,6 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 <font color="red">Currently, I am looking for a job. If you are interested, please feel free to contact me via email denglw0830@gmail.com.</font>
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICML workshop on ML4Wireless. 
 - *2025.03*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2025. 
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2025. 
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by ICDE 2025. 
