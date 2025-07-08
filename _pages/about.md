@@ -127,6 +127,7 @@ My research interest includes neural machine translation and computer vision. I 
   - Mentor: [Nicholas Jing Yuan](https://scholar.google.com/citations?user=B-d1EHAAAAAJ&hl=zh-CN)
 
 # 🎖 Honors and Awards
+- The outstanding doctoral dissertation of UESTC (2025)
 - UESTC Academic Newcomer Award (2025)
 - Best Student Paper Award Runner Up at DASFAA 2023
 - Second-class People's Scholarship (2022, 2023, 2024)
@@ -143,4 +144,7 @@ My research interest includes neural machine translation and computer vision. I 
 - 2023: IJCAI, CIKM, AAAI, BDMS@DASFAA
 
 #### Journal Invited Reviewer
-- TKDE, Information Processing and Management, IEEE Transactions on Cybernetics, Knowledge-based Systems
+- IEEE Transactions on Knowledge and Data Engineering
+- Information Processing and Management
+- IEEE Transactions on Cybernetics
+- Knowledge-based Systems
