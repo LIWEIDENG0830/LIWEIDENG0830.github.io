@@ -148,3 +148,4 @@ My research interest includes neural machine translation and computer vision. I 
 - Information Processing and Management
 - IEEE Transactions on Cybernetics
 - Knowledge-based Systems
+- Neural Networks
