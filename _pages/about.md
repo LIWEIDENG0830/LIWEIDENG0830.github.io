@@ -116,7 +116,7 @@ My research interest includes neural machine translation and computer vision. I 
   - Information and Computing Science, School of Mathematics
 - *2018.09 - 2021.06*, University of Electronic Science and Technology of China, Master
   - Computer Technology, School of Computer Science and Engineering
-- *2021.09 - present*, University of Electronic Science and Technology of China, Ph.D.
+- *2021.09 - 2025.06*, University of Electronic Science and Technology of China, Ph.D.
   - Computer Science and Technology, School of Computer Science and Engineering
 
 # 💻 Internships
