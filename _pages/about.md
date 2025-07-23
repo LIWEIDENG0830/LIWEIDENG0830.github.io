@@ -29,7 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 <font color="red">Currently, I am looking for a job. If you are interested, please feel free to contact me via email denglw0830@gmail.com.</font>
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 Best paper award at ICML workshop on ML4Wireless [Page](https://sites.google.com/uniroma1.it/ml4wireless/schedule).
+- *2025.07*: &nbsp;🎉🎉 Best paper award at ICML workshop on ML4Wireless.
 - *2025.06*: &nbsp;🎉🎉 We release our survey of spatio-temporal foundation models on Arxiv. 
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICML workshop on ML4Wireless. 
 - *2025.03*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2025. 
@@ -64,7 +64,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Selected Conference Papers**
 
-1. <span style="color:blue">[ICML Workshop on ML4Wireless]</span> Tianfu Wang, Long Yang, Chao Wang, Chuan Qin, **Liwei Deng**, Li Shen, Hui Xiong. Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. 
+1. <span style="color:blue">[ICML Workshop on ML4Wireless]</span> Tianfu Wang, Long Yang, Chao Wang, Chuan Qin, **Liwei Deng**, Li Shen, Hui Xiong. Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. [Best Paper Award](https://sites.google.com/uniroma1.it/ml4wireless/schedule) 
 2. <span style="color:blue">[ICDE 2025]</span> Ximu Zeng, Jianxing Lin, **Liwei Deng**, Yuchen Fang, Yan Zhao, Kai Zheng. Optimizing Multi-Center Collaboration for Task Assignment in Spatial Crowdsoucing. <span style="color:red">**(Core A*, CCF A)**</span>
 3. <span style="color:blue">[ICDE 2025]</span> **Liwei Deng**, Penghao Chen, Ximu Zeng, Yuchen Fang, Jin Chen, Yan Zhao. Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search. \[[code](https://github.com/Ur-Eine/distribution-aware-LSH)\] <span style="color:red">**(Core A*, CCF A)**</span>
 4. <span style="color:blue">[WWW 2025]</span> Ximu Zeng, **Liwei Deng**, Penghao Chen, Xu Chen, Han Su, Kai Zheng. LIRA: A Learning-based Query-aware Parition Framework for Large-scale ANN Search. \[[code](https://github.com/SimoneZeng/LIRA-ANN-search)\] <span style="color:red">**(Core A*, CCF A)**</span>
@@ -128,6 +128,7 @@ My research interest includes neural machine translation and computer vision. I 
   - Mentor: [Nicholas Jing Yuan](https://scholar.google.com/citations?user=B-d1EHAAAAAJ&hl=zh-CN)
 
 # 🎖 Honors and Awards
+- Best Paper Award at ICML@ML4Wireless (2025)
 - The Outstanding Doctoral Dissertation of UESTC (2025)
 - UESTC Academic Newcomer Award (2025)
 - Best Student Paper Award Runner Up at DASFAA 2023
