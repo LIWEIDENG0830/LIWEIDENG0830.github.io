@@ -64,7 +64,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Selected Conference Papers**
 
-1. <span style="color:blue">[ICML Workshop on ML4Wireless]</span> Tianfu Wang, Long Yang, Chao Wang, Chuan Qin, **Liwei Deng**, Li Shen, Hui Xiong. Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. [Best Paper Award](https://sites.google.com/uniroma1.it/ml4wireless/schedule) 
+1. <span style="color:blue">[ICML Workshop on ML4Wireless]</span> Tianfu Wang, Long Yang, Chao Wang, Chuan Qin, **Liwei Deng**, Li Shen, Hui Xiong. Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. **(Best Paper Award)**
 2. <span style="color:blue">[ICDE 2025]</span> Ximu Zeng, Jianxing Lin, **Liwei Deng**, Yuchen Fang, Yan Zhao, Kai Zheng. Optimizing Multi-Center Collaboration for Task Assignment in Spatial Crowdsoucing. <span style="color:red">**(Core A*, CCF A)**</span>
 3. <span style="color:blue">[ICDE 2025]</span> **Liwei Deng**, Penghao Chen, Ximu Zeng, Yuchen Fang, Jin Chen, Yan Zhao. Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search. \[[code](https://github.com/Ur-Eine/distribution-aware-LSH)\] <span style="color:red">**(Core A*, CCF A)**</span>
 4. <span style="color:blue">[WWW 2025]</span> Ximu Zeng, **Liwei Deng**, Penghao Chen, Xu Chen, Han Su, Kai Zheng. LIRA: A Learning-based Query-aware Parition Framework for Large-scale ANN Search. \[[code](https://github.com/SimoneZeng/LIRA-ANN-search)\] <span style="color:red">**(Core A*, CCF A)**</span>
