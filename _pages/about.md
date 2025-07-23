@@ -29,6 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 <font color="red">Currently, I am looking for a job. If you are interested, please feel free to contact me via email denglw0830@gmail.com.</font>
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Best paper award at ICML workshop on ML4Wireless [Page](https://sites.google.com/uniroma1.it/ml4wireless/schedule).
 - *2025.06*: &nbsp;🎉🎉 We release our survey of spatio-temporal foundation models on Arxiv. 
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICML workshop on ML4Wireless. 
 - *2025.03*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2025. 
