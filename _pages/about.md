@@ -130,6 +130,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 💻 Work Experience
 
 - *2025.08 - 2026.07*, Aalborg University, Aalborg, Denmark.
+  - Spatio-Temporal Data Mining
   - Supervisors: [Prof. Christian S. Jensen](https://csj.cs.aau.dk/) and [Prof. Yan Zhao](https://yan20191113.github.io/)
 - *2023.08 - 2024.05*, Microsoft Internet Engineering Institute, Microsoft, Suzhou, China.
   - Finance Technology
