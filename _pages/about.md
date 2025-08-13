@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am currently a Postdoc in the Department of Computer Science at Aalborg University (AAU). I obtained my PhD degree at [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Prof. [Kai Zheng](https://zheng-kai.com/) and Prof. [Yan Zhao](https://yan20191113.github.io). Previously, I received my M.E. and B.E. degree from University of Electronic Science and Technology of China and Taiyuan University of Technology in 2018 and 2021, respectively. 
+
+<!-- 
 I'm a fourth year PhD candidate at [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Prof. [Kai Zheng](https://zheng-kai.com/). Moreover, I am co-supervised by Dr. [Yan Zhao](https://yan20191113.github.io), an Associate Professor at Aalborg University. Previously, I received my M.E. and B.E. degree from University of Electronic Science and Technology of China and Taiyuan University of Technology in 2018 and 2021, respectively. 
+-->
 
 My research interests include spatio-temporal data mining, trajectory computing, finance technology, recommender system, vector database, and other data-driven applications. 
 
@@ -121,13 +125,15 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09 - 2025.06*, University of Electronic Science and Technology of China, Ph.D.
   - Computer Science and Technology, School of Computer Science and Engineering
 
-# 💻 Internships
+# 💻 Work Experience
 
-- *2019.09 - 2020.07*, Huawei Cloud Database Innovation Lab, Huawei Technologies Co. Ltd., Chengdu, China.
-  - Time Series Analysis
+- *2025.08 - 2026.07*, Aalborg University, Aalborg, Denmark.
+  - Supervisors: [Prof. Christian S. Jensen](https://csj.cs.aau.dk/) and [Prof. Yan Zhao](https://yan20191113.github.io/)
 - *2023.08 - 2024.05*, Microsoft Internet Engineering Institute, Microsoft, Suzhou, China.
   - Finance Technology
   - Mentor: [Nicholas Jing Yuan](https://scholar.google.com/citations?user=B-d1EHAAAAAJ&hl=zh-CN)
+- *2019.09 - 2020.07*, Huawei Cloud Database Innovation Lab, Huawei Technologies Co. Ltd., Chengdu, China.
+  - Time Series Analysis
 
 # 🎖 Honors and Awards
 - Best Paper Award at ICML@ML4Wireless (2025)
