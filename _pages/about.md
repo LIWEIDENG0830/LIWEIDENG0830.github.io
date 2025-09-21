@@ -162,3 +162,4 @@ My research interest includes neural machine translation and computer vision. I 
 - IEEE Transactions on Cybernetics
 - Knowledge-based Systems
 - Neural Networks
+- Advanced Engineering Informatics
