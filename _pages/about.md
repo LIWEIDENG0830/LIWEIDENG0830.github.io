@@ -35,6 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 One paper is accepted by ICDE.
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by CIKM.
 - *2025.07*: &nbsp;🎉🎉 Best paper award at ICML workshop on ML4Wireless.
 - *2025.06*: &nbsp;🎉🎉 We release our survey of spatio-temporal foundation models on Arxiv. 
