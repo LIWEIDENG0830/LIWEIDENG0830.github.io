@@ -134,12 +134,15 @@ https://arxiv.org/abs/2410.22999)\] **(Best Paper Award)**
 # 💻 Work Experience
 
 - *2025.08 - 2026.07*, Aalborg University, Aalborg, Denmark.
+  - Postdoc
   - Spatio-Temporal Data Mining
   - Supervisors: [Prof. Christian S. Jensen](https://csj.cs.aau.dk/) and [Prof. Yan Zhao](https://yan20191113.github.io/)
 - *2023.08 - 2024.05*, Microsoft Internet Engineering Institute, Microsoft, Suzhou, China.
+  - Research Intern
   - Finance Technology
   - Mentor: [Nicholas Jing Yuan](https://scholar.google.com/citations?user=B-d1EHAAAAAJ&hl=zh-CN)
 - *2019.09 - 2020.07*, Huawei Cloud Database Innovation Lab, Huawei Technologies Co. Ltd., Chengdu, China.
+  - Research Intern
   - Time Series Analysis
 
 # 🎖 Honors and Awards
