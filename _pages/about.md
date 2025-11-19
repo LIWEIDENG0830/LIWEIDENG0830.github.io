@@ -74,7 +74,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 1. <span style="color:blue">[ICDE 2026]</span> Yuyang Xia, Zibo Liang, **Liwei Deng**, Yan Zhao, Han Su, Kai Zheng. Energy-Efficient Autonomous Driving with Adaptive Perception and Robust Decision. \[[Paper](
 https://arxiv.org/abs/2510.25205)\] <span style="color:red">**(Core A*, CCF A)**</span>
-2. <span style="color:blue">[CIKM 2025]</span> Yongfu Fan, Jin Chen, Yangzixuan Jiao, Ximu Zeng, **Liwei Deng**, Kai Zheng. Enhancing Multi-Behavior Sequential Recommenders with Behavior-Aware Regularization. <span style="color:red">**(Core A, CCF B)**</span>
+2. <span style="color:blue">[CIKM 2025]</span> Yongfu Fan, Jin Chen, Yangzixuan Jiao, Ximu Zeng, **Liwei Deng**, Kai Zheng. Enhancing Multi-Behavior Sequential Recommenders with Behavior-Aware Regularization. \[[Paper](
+https://dl.acm.org/doi/abs/10.1145/3746252.3761069)\] <span style="color:red">**(Core A, CCF B)**</span>
 3. <span style="color:blue">[ICML Workshop on ML4Wireless]</span> Tianfu Wang, Long Yang, Chao Wang, Chuan Qin, **Liwei Deng**, Li Shen, Hui Xiong. Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. \[[Paper](
 https://arxiv.org/abs/2410.22999)\] **(Best Paper Award)**
 4. <span style="color:blue">[ICDE 2025]</span> Ximu Zeng, Jianxing Lin, **Liwei Deng**, Yuchen Fang, Yan Zhao, Kai Zheng. Optimizing Multi-Center Collaboration for Task Assignment in Spatial Crowdsoucing. \[[Paper](https://www.computer.org/csdl/proceedings-article/icde/2025/360300c838/26FZBfKk932)\] <span style="color:red">**(Core A*, CCF A)**</span>
