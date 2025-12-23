@@ -160,6 +160,7 @@ https://arxiv.org/abs/2410.22999)\] **(Best Paper Award)**
 # ⏳ Professional Services
 
 #### PC Member and Reviewer
+- 2026: PAKDD
 - 2025: KDD, IJCAI, CIKM, BigData
 - 2024: KDD, IJCAI, CIKM
 - 2023: IJCAI, CIKM, AAAI, BDMS@DASFAA
