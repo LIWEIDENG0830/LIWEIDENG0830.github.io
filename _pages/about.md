@@ -35,6 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 One paper is accepted by TKDE.
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by ICDE.
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by CIKM.
 - *2025.07*: &nbsp;🎉🎉 Best paper award at ICML workshop on ML4Wireless.
@@ -109,7 +110,7 @@ https://arxiv.org/abs/2410.22999)\] **(Best Paper Award)**
 32. <span style="color:blue">[KDD 2019]</span> Yue Cui, **Liwei Deng**, Yan Zhao, Bin Yao, Vincent W Zheng, Kai Zheng. Hidden poi ranking with spatial crowdsourcing. \[[Paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330844)\] <span style="color:red">**(Core A*, CCF A)**</span>
 
 **Selected Journal Papers**
-1. <span style="color:blue">[Arxiv]</span> Yuchen Fang, Hao Miao, Yuxuan Liang, **Liwei Deng**, Yue Cui, Ximu Zeng, Yuyang Xia, Torben Bach Pedersen, Christian S. Jensen, Xiaofang Zhou, Kai Zheng. Unreveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review. \[[Paper](https://arxiv.org/abs/2506.01364)\] \[[Github](https://github.com/LMissher/Awesome-Spatio-Temporal-Foundation-Models)\] 
+1. <span style="color:blue">[TKDE]</span> Yuchen Fang, Hao Miao, Yuxuan Liang, **Liwei Deng**, Yue Cui, Ximu Zeng, Yuyang Xia, Torben Bach Pedersen, Christian S. Jensen, Xiaofang Zhou, Kai Zheng. Unreveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review. \[[Paper](https://arxiv.org/abs/2506.01364)\] \[[Github](https://github.com/LMissher/Awesome-Spatio-Temporal-Foundation-Models)\] 
 2. <span style="color:blue">[VLDBJ]</span> Yan Zhao, Kai Zheng, Ziwei Wang, **Liwei Deng**, Bin Yang, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou. Coalition-based task assignment with priority-aware fairness in spatial crowdsourcing. \[[Paper](https://link.springer.com/article/10.1007/s00778-023-00802-3)\] <span style="color:red">**(Core A*, CCF A)**</span>
 3. <span style="color:blue">[TOIS]</span> Yan Zhao<sup>+</sup>, **Liwei Deng<sup>+</sup>**, Kai Zheng. AdaTaskRec: An adaptive task recommendation framework in spatial crowdsourcing. \[[Paper](https://dl.acm.org/doi/full/10.1145/3593582)\] <span style="color:red">**(Core A*, CCF A)**</span>
 4. <span style="color:blue">[TIST]</span> **Liwei Deng**, Hao Sun, Rui Sun, Yan Zhao, Han Su. Efficient and effective similar subtrajectory search: a spatial-aware comprehension approach. \[[Paper](https://dl.acm.org/doi/full/10.1145/3456723)\]
