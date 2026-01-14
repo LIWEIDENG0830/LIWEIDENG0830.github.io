@@ -74,7 +74,7 @@ My research interest includes neural machine translation and computer vision. I 
 **Selected Conference Papers**
 
 1. <span style="color:blue">[ICDE 2026]</span> Yuyang Xia, Zibo Liang, **Liwei Deng**, Yan Zhao, Han Su, Kai Zheng. Energy-Efficient Autonomous Driving with Adaptive Perception and Robust Decision. \[[Paper](
-https://arxiv.org/abs/2510.25205)\] <span style="color:red">**(Core A*, CCF A)**</span>
+https://arxiv.org/abs/2510.25205)\] \[[code](https://github.com/xiayuyang/Ene_AD_ICDE)\] <span style="color:red">**(Core A*, CCF A)**</span>
 2. <span style="color:blue">[CIKM 2025]</span> Yongfu Fan, Jin Chen, Yangzixuan Jiao, Ximu Zeng, **Liwei Deng**, Kai Zheng. Enhancing Multi-Behavior Sequential Recommenders with Behavior-Aware Regularization. \[[Paper](
 https://dl.acm.org/doi/abs/10.1145/3746252.3761069)\] <span style="color:red">**(Core A, CCF B)**</span>
 3. <span style="color:blue">[ICML Workshop on ML4Wireless]</span> Tianfu Wang, Long Yang, Chao Wang, Chuan Qin, **Liwei Deng**, Li Shen, Hui Xiong. Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. \[[Paper](
