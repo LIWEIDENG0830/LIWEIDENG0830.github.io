@@ -120,6 +120,7 @@ https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/cona
 **Working Papers**
 1. **Liwei Deng**, Penghao Chen, Ximu Zeng, Tianfu Wang, Yan Zhao, Kai Zheng. Accelerating Distance Comparison Operation for Maximum Inner Product Search. In KDD 2025. 
 -->
+**Working Papers**
 1. Yupu Zhang*, \underline{\textbf{Liwei Deng}}*, Ximu Zeng, Yan Zhao, Kai Zheng. TrajDC: Trajectory Dataset Condensation for Efficient Trajectory Similarity Learning. (Submitted to VLDB, * Equal Contribution)
 2. Banglie Yang*, \underline{\textbf{Liwei Deng}}*, Cheng Dai, Kai Zheng. Data-Segmentation Prompt based Continual Learning Framework for Online Spatio-Temporal Prediction. (Submitted to ICDE, * Equal Contribution, Revision)
 3. Tianfu Wang*, \underline{\textbf{Liwei Deng}}*, Xi Chen, Junyang Wang, Huiguo He, Leilei Ding, Wei Wu, Qilin Fan, Hui Xiong. Virne: A Comprehensive Benchmark for Deep RL-based Network Resource Allocation in NFV. (Submitted to ICLR, * Equal Contribution)
