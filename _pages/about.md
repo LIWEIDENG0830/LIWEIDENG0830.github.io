@@ -116,12 +116,20 @@ https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/cona
 4. <span style="color:blue">[TIST]</span> **Liwei Deng**, Hao Sun, Rui Sun, Yan Zhao, Han Su. Efficient and effective similar subtrajectory search: a spatial-aware comprehension approach. \[[Paper](https://dl.acm.org/doi/full/10.1145/3456723)\]
 5. <span style="color:blue">[WWWJ]</span> Xuanhao Chen, **Liwei Deng**, Yan Zhao, Xiaofang Zhou, Kai Zheng. Community-based influence maximization in location-based social network. In WWWJ. \[[Paper](https://link.springer.com/article/10.1007/s11280-021-00935-x)\] <span style="color:red">**(Core A, CCF B)**</span>
 
-<!--
-**Underreview**
-1. **\[KDD 2025\]** **Liwei Deng**, Penghao Chen, Ximu Zeng, Tianfu Wang, Yan Zhao, Kai Zheng. Accelerating Distance Comparison Operation for Maximum Inner Product Search. In KDD 2025. 
-2. **\[ICML 2025\]** Tianfu Wang, Long Yang, Chao Wang, Chuan Qin, **Liwei Deng**, Li Shen, Hui Xiong. Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. Arxiv Preprint 2025. \[[Paper](https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/conal-vne)\]
-3. **\[Arxiv\]** Yan Zhao, **Liwei Deng**, Xuanhao Chen, Chenjuan Guo, Bin Yang, Tung Kieu, Feiteng Huang, Torben Bach Pedersen, Kai Zheng, Christian S Jensen. A comparative study on unsupervised anomaly detection for time series: Experiments and analysis. Arxiv Preprint 2022. \[[Paper](https://arxiv.org/abs/2209.04635)\]
+<!-- 
+**Working Papers**
+1. **Liwei Deng**, Penghao Chen, Ximu Zeng, Tianfu Wang, Yan Zhao, Kai Zheng. Accelerating Distance Comparison Operation for Maximum Inner Product Search. In KDD 2025. 
 -->
+1. Yupu Zhang*, \underline{\textbf{Liwei Deng}}*, Ximu Zeng, Yan Zhao, Kai Zheng. TrajDC: Trajectory Dataset Condensation for Efficient Trajectory Similarity Learning. (Submitted to VLDB, * Equal Contribution)
+2. Banglie Yang*, \underline{\textbf{Liwei Deng}}*, Cheng Dai, Kai Zheng. Data-Segmentation Prompt based Continual Learning Framework for Online Spatio-Temporal Prediction. (Submitted to ICDE, * Equal Contribution, Revision)
+3. Tianfu Wang*, \underline{\textbf{Liwei Deng}}*, Xi Chen, Junyang Wang, Huiguo He, Leilei Ding, Wei Wu, Qilin Fan, Hui Xiong. Virne: A Comprehensive Benchmark for Deep RL-based Network Resource Allocation in NFV. (Submitted to ICLR, * Equal Contribution)
+4. Yuyang Xia, Xu Chen, Shuncheng Liu, Zibo Liang, \underline{\textbf{Liwei Deng}}, Han Su, Kai Zheng. TRADE: Collaborative Configuration Tuning for Efficient Cross-camera Video Processing. (Submitted to TKDE, Revision)
+5. Ke Fang, Qilin Fan, Tianfu Wang, \underline{\textbf{Liwei Deng}}, Chao Chen, Xiuhua Li. Beyond Correlation: A Causal Graph Approach to Fair and Stable Federated Traffic Forecasting.
+6. Tianfu Wang, Qilin Fan, Chao Wang, Chuan Qin, \underline{\textbf{Liwei Deng}}, Junyang Wang, Wei Wu, Zhengyu Hu, Li Shen, Hui Xiong. CONAL: Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. \[[Paper](https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/conal-vne)\]
+7. Ximu Zeng, Xinjie Lin, \underline{\textbf{Liwei Deng}}, Ran Xu, Shiyuan Deng, Han Su, Kai Zheng. D-LIRA: Lightweight Index Maintenance for Dynamic Partition-Based ANN Search.
+8. Ximu Zeng, \underline{\textbf{Liwei Deng}}, Huan Li, Yan Zhao, Kai Zheng. Optimizing Joint Drone-Worker Task Assignment in Spatial Crowdsourcing.
+9. Yan Zhao, **Liwei Deng**, Xuanhao Chen, Chenjuan Guo, Bin Yang, Tung Kieu, Feiteng Huang, Torben Bach Pedersen, Kai Zheng, Christian S Jensen. A comparative study on unsupervised anomaly detection for time series: Experiments and analysis. Arxiv Preprint 2022. \[[Paper](https://arxiv.org/abs/2209.04635)\]
+
 
 **Note**: <sup>#</sup> and <sup>+</sup> indicate the corresponding author and co-first author
 
