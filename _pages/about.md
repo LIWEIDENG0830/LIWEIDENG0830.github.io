@@ -119,7 +119,7 @@ https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/cona
 <!-- 
 **Working Papers**
 1. **Liwei Deng**, Penghao Chen, Ximu Zeng, Tianfu Wang, Yan Zhao, Kai Zheng. Accelerating Distance Comparison Operation for Maximum Inner Product Search. In KDD 2025. 
--->
+
 **Working Papers**
 1. Yupu Zhang<sup>+</sup>, **Liwei Deng**<sup>+</sup>, Ximu Zeng, Yan Zhao, Kai Zheng. TrajDC: Trajectory Dataset Condensation for Efficient Trajectory Similarity Learning. (Submitted to VLDB, * Equal Contribution)
 2. Banglie Yang<sup>+</sup>, **Liwei Deng**<sup>+</sup>, Cheng Dai, Kai Zheng. Data-Segmentation Prompt based Continual Learning Framework for Online Spatio-Temporal Prediction. (Submitted to ICDE, * Equal Contribution, Revision)
@@ -130,7 +130,7 @@ https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/cona
 7. Ximu Zeng, Xinjie Lin, **Liwei Deng**, Ran Xu, Shiyuan Deng, Han Su, Kai Zheng. D-LIRA: Lightweight Index Maintenance for Dynamic Partition-Based ANN Search.
 8. Ximu Zeng, **Liwei Deng**, Huan Li, Yan Zhao, Kai Zheng. Optimizing Joint Drone-Worker Task Assignment in Spatial Crowdsourcing.
 9. Yan Zhao, **Liwei Deng**, Xuanhao Chen, Chenjuan Guo, Bin Yang, Tung Kieu, Feiteng Huang, Torben Bach Pedersen, Kai Zheng, Christian S Jensen. A comparative study on unsupervised anomaly detection for time series: Experiments and analysis. Arxiv Preprint 2022. \[[Paper](https://arxiv.org/abs/2209.04635)\]
-
+-->
 
 **Note**: <sup>#</sup> and <sup>+</sup> indicate the corresponding author and co-first author
 
