@@ -74,7 +74,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Selected Conference Papers**
 
-1. <span style="color:blue">[ICLR 2026]</span> Tianfu Wang, **Liwei Deng**, Xi Chen, Junyang Wang, Huiguo He, Zhengyu Hu, Wei Wu, Leilei Ding, Qilin Fan, Hui Xiong. Virne: A Comprehensive Benchmark for RL-based Network Resource Allocation in NFV. <span style="color:red">**(Core A*)**</span>
+1. <span style="color:blue">[ICLR 2026]</span> Tianfu Wang, **Liwei Deng<sup>#</sup>**, Xi Chen, Junyang Wang, Huiguo He, Zhengyu Hu, Wei Wu, Leilei Ding, Qilin Fan, Hui Xiong<sup>#</sup>. Virne: A Comprehensive Benchmark for RL-based Network Resource Allocation in NFV. <span style="color:red">**(Core A*)**</span>
 2. <span style="color:blue">[ICDE 2026]</span> Yuyang Xia, Zibo Liang, **Liwei Deng**, Yan Zhao, Han Su, Kai Zheng. Energy-Efficient Autonomous Driving with Adaptive Perception and Robust Decision. \[[Paper](
 https://arxiv.org/abs/2510.25205)\] \[[code](https://github.com/xiayuyang/Ene_AD_ICDE)\] <span style="color:red">**(Core A*, CCF A)**</span>
 3. <span style="color:blue">[CIKM 2025]</span> Yongfu Fan, Jin Chen, Yangzixuan Jiao, Ximu Zeng, **Liwei Deng**, Kai Zheng. Enhancing Multi-Behavior Sequential Recommenders with Behavior-Aware Regularization. \[[Paper](
