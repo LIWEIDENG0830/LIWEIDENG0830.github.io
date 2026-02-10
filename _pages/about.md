@@ -180,8 +180,8 @@ https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/cona
 
 #### Journal Invited Reviewer
 - IEEE Transactions on Knowledge and Data Engineering
-- Information Processing and Management
 - IEEE Transactions on Cybernetics
+- Information Processing and Management
 - Knowledge-based Systems
 - Neural Networks
 - Advanced Engineering Informatics
