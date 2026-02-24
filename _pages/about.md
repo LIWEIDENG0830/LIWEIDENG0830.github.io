@@ -75,7 +75,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Selected Conference Papers**
 
-1. <span style="color:blue">[ICDE 2026]</span> Banglie Yang, **Liwei Deng**, Cheng Dai, Kai Zheng. Data-Segmentation Prompt based Continual Learning Framework for Online Spatio-Temporal Prediction. <span style="color:red">**(Core A*, CCF A)**</span>
+1. <span style="color:blue">[ICDE 2026]</span> Banglie Yang<sup>+</sup>, **Liwei Deng<sup>+</sup>**, Cheng Dai, Kai Zheng. Data-Segmentation Prompt based Continual Learning Framework for Online Spatio-Temporal Prediction. <span style="color:red">**(Core A*, CCF A)**</span>
 2. <span style="color:blue">[ICLR 2026]</span> Tianfu Wang, **Liwei Deng<sup>#</sup>**, Xi Chen, Junyang Wang, Huiguo He, Zhengyu Hu, Wei Wu, Leilei Ding, Qilin Fan, Hui Xiong<sup>#</sup>. Virne: A Comprehensive Benchmark for RL-based Network Resource Allocation in NFV. \[[Paper](
 https://arxiv.org/abs/2507.19234)\] \[[code](https://github.com/GeminiLight/virne)\] <span style="color:red">**(Core A*)**</span>
 3. <span style="color:blue">[ICDE 2026]</span> Yuyang Xia, Zibo Liang, **Liwei Deng**, Yan Zhao, Han Su, Kai Zheng. Energy-Efficient Autonomous Driving with Adaptive Perception and Robust Decision. \[[Paper](
