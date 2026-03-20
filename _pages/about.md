@@ -186,5 +186,6 @@ https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/cona
 - Information Processing and Management
 - Knowledge-based Systems
 - Neural Networks
+- Expert Systems with Applications
 - Advanced Engineering Informatics
 - Ocean Engineering
