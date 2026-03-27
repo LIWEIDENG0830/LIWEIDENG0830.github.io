@@ -77,7 +77,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 1. <span style="color:blue">[ICDE 2026]</span> Banglie Yang<sup>+</sup>, **Liwei Deng<sup>+</sup>**, Cheng Dai, Kai Zheng. Data-Segmentation Prompt based Continual Learning Framework for Online Spatio-Temporal Prediction. <span style="color:red">**(Core A*, CCF A)**</span>
 2. <span style="color:blue">[ICLR 2026]</span> Tianfu Wang, **Liwei Deng<sup>#</sup>**, Xi Chen, Junyang Wang, Huiguo He, Zhengyu Hu, Wei Wu, Leilei Ding, Qilin Fan, Hui Xiong<sup>#</sup>. Virne: A Comprehensive Benchmark for RL-based Network Resource Allocation in NFV. \[[Paper](
-https://arxiv.org/abs/2507.19234)\] \[[code](https://github.com/GeminiLight/virne)\] <span style="color:red">**(Core A*)**</span>
+https://arxiv.org/abs/2507.19234)\] \[[code](https://github.com/GeminiLight/virne)\] <span style="color:red">**(Core A*, CCF A)**</span>
 3. <span style="color:blue">[ICDE 2026]</span> Yuyang Xia, Zibo Liang, **Liwei Deng**, Yan Zhao, Han Su, Kai Zheng. Energy-Efficient Autonomous Driving with Adaptive Perception and Robust Decision. \[[Paper](
 https://arxiv.org/abs/2510.25205)\] \[[code](https://github.com/xiayuyang/Ene_AD_ICDE)\] <span style="color:red">**(Core A*, CCF A)**</span>
 4. <span style="color:blue">[CIKM 2025]</span> Yongfu Fan, Jin Chen, Yangzixuan Jiao, Ximu Zeng, **Liwei Deng**, Kai Zheng. Enhancing Multi-Behavior Sequential Recommenders with Behavior-Aware Regularization. \[[Paper](
@@ -127,8 +127,6 @@ https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/cona
 
 **Working Papers**
 1. Yupu Zhang<sup>+</sup>, **Liwei Deng**<sup>+</sup>, Ximu Zeng, Yan Zhao, Kai Zheng. TrajDC: Trajectory Dataset Condensation for Efficient Trajectory Similarity Learning. (Submitted to VLDB, * Equal Contribution)
-2. Banglie Yang<sup>+</sup>, **Liwei Deng**<sup>+</sup>, Cheng Dai, Kai Zheng. Data-Segmentation Prompt based Continual Learning Framework for Online Spatio-Temporal Prediction. (Submitted to ICDE, * Equal Contribution, Revision)
-3. Tianfu Wang<sup>+</sup>, **Liwei Deng**<sup>+</sup>, Xi Chen, Junyang Wang, Huiguo He, Leilei Ding, Wei Wu, Qilin Fan, Hui Xiong. Virne: A Comprehensive Benchmark for Deep RL-based Network Resource Allocation in NFV. (Submitted to ICLR, * Equal Contribution)
 4. Yuyang Xia, Xu Chen, Shuncheng Liu, Zibo Liang, **Liwei Deng**, Han Su, Kai Zheng. TRADE: Collaborative Configuration Tuning for Efficient Cross-camera Video Processing.
 5. Ke Fang, Qilin Fan, Tianfu Wang, **Liwei Deng**, Chao Chen, Xiuhua Li. Beyond Correlation: A Causal Graph Approach to Fair and Stable Federated Traffic Forecasting.
 6. Tianfu Wang, Qilin Fan, Chao Wang, Chuan Qin, **Liwei Deng**, Junyang Wang, Wei Wu, Zhengyu Hu, Li Shen, Hui Xiong. CONAL: Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. \[[Paper](https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/conal-vne)\]
