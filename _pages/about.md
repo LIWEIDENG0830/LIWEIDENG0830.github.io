@@ -56,7 +56,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.11*: &nbsp;🎉🎉 Three papers are accepted by ICDE 2024.
 -->
 
-# 🧩 Workshop Organization
+# 🧩 Workshops
 
 1. <span style="color:blue">[ICDM 2026]</span> **Liwei Deng**, Jiaxing Shen, Hao Miao, Yu Yang, Yan Zhao, Tianfu Wang, Elliott Wen, Huan Li, Xin Li, Fuliang Li, Kai Zheng. Human Dynamics and Mobility Analytics in Agentic AI Era. Shenyang, China. 
 
