@@ -178,7 +178,7 @@ https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/cona
 # ⏳ Professional Services
 
 #### PC Member and Reviewer
-- 2026: KDD, IJCAI, PAKDD, CIKM, BigData
+- 2026: ICDE, KDD, IJCAI, PAKDD, CIKM, BigData
 - 2025: KDD, IJCAI, CIKM, BigData
 - 2024: KDD, IJCAI, CIKM
 - 2023: IJCAI, CIKM, AAAI, BDMS@DASFAA
