@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 Our workshop proposal is accepted by ICDM. We will organize the Human Dynamics and Mobility Analytics in Agentic AI Era at ICDM 2026, Shenyang, China.
+- *2026.04*: &nbsp;🎉🎉 Our workshop proposal is accepted by ICDM. We will organize the [Human Dynamics and Mobility Analytics in Agentic AI Era](https://liweideng0830.github.io/hdai2026-ICDM-workshop/) at ICDM 2026, Shenyang, China.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by ICDE.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICLR.
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by TKDE.
@@ -58,7 +58,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🧩 Workshops
 
-1. <span style="color:blue">[ICDM 2026]</span> **Liwei Deng**, Jiaxing Shen, Hao Miao, Yu Yang, Yan Zhao, Tianfu Wang, Elliott Wen, Huan Li, Xin Li, Fuliang Li, Kai Zheng. Human Dynamics and Mobility Analytics in Agentic AI Era. Shenyang, China. <span style="color:red">**(Core A*, CCF B)**</span>
+1. <span style="color:blue">[ICDM 2026]</span> **Liwei Deng**, Jiaxing Shen, Hao Miao, Yu Yang, Yan Zhao, Tianfu Wang, Elliott Wen, Huan Li, Xin Li, Fuliang Li, Kai Zheng. [Human Dynamics and Mobility Analytics in Agentic AI Era](https://liweideng0830.github.io/hdai2026-ICDM-workshop/). Shenyang, China. <span style="color:red">**(Core A*, CCF B)**</span>
 
 # 📝 Publications 
 
