@@ -35,6 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 I was invited as Proceedings Chair of [ADC 2026](https://adc-conference.github.io/2026/organisation). 
 - *2026.04*: &nbsp;🎉🎉 Our workshop proposal is accepted by ICDM. We will organize the [Human Dynamics and Mobility Analytics in Agentic AI Era](https://liweideng0830.github.io/hdai2026-ICDM-workshop/) at ICDM 2026, Shenyang, China.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by ICDE.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICLR.
@@ -178,7 +179,7 @@ https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/cona
 # ⏳ Professional Services
 
 #### PC Member and Reviewer
-- 2026: ICDE, KDD, IJCAI, PAKDD, CIKM, BigData
+- 2026: ICDE, KDD, SIGSPATIAL, IJCAI, PAKDD, CIKM, BigData
 - 2025: KDD, IJCAI, CIKM, BigData
 - 2024: KDD, IJCAI, CIKM
 - 2023: IJCAI, CIKM, AAAI, BDMS@DASFAA
