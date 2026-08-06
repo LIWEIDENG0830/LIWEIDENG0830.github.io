@@ -83,7 +83,8 @@ My research interest includes neural machine translation and computer vision. I 
 **Selected Conference Papers**
 
 1. <span style="color:blue">[PVLDB 2026]</span> **Liwei Deng<sup></sup>**, Haotian Meng, Yupu Zhang, Yan Zhao, Torben Bach Pedersen, Kai Zheng, Christian S. Jensen. 
-Using Lower-Bound Representations for Trajectory Similarity Learning. \[[code](https://github.com/LIWEIDENG0830/LB-TrajRep)\] <span style="color:red">**(Core A*, CCF A)**</span>
+Using Lower-Bound Representations for Trajectory Similarity Learning. \[[Arxiv](
+https://arxiv.org/abs/2608.01039)\] \[[code](https://github.com/LIWEIDENG0830/LB-TrajRep)\] <span style="color:red">**(Core A*, CCF A)**</span>
 2. <span style="color:blue">[ICDE 2026]</span> Banglie Yang<sup>+</sup>, **Liwei Deng<sup>+</sup>**, Cheng Dai, Kai Zheng. Data-Segmentation Prompt based Continual Learning Framework for Online Spatio-Temporal Prediction. <span style="color:red">**(Core A*, CCF A)**</span>
 3. <span style="color:blue">[ICLR 2026]</span> Tianfu Wang, **Liwei Deng<sup>#</sup>**, Xi Chen, Junyang Wang, Huiguo He, Zhengyu Hu, Wei Wu, Leilei Ding, Qilin Fan, Hui Xiong<sup>#</sup>. Virne: A Comprehensive Benchmark for RL-based Network Resource Allocation in NFV. \[[Paper](
 https://arxiv.org/abs/2507.19234)\] \[[code](https://github.com/GeminiLight/virne)\] <span style="color:red">**(Core A*, CCF A)**</span>
