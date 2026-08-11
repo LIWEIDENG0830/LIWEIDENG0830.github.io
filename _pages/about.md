@@ -48,7 +48,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.06*: &nbsp;🎉🎉 We release our survey of spatio-temporal foundation models on Arxiv. 
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICML workshop on ML4Wireless. 
 - *2025.03*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2025. 
-<!-- 
+
+<!--
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2025. 
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by ICDE 2025. 
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by KDD 2025. 
