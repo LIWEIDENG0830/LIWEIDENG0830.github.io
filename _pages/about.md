@@ -157,7 +157,7 @@ https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/cona
 
 # 💻 Work Experience
 
-- *2025.08 - 2026.07*, Aalborg University, Aalborg, Denmark.
+- *2025.08 - 2027.07*, Aalborg University, Aalborg, Denmark.
   - Postdoc
   - Spatio-Temporal Data Mining
   - Supervisors: [Prof. Christian S. Jensen](https://csj.cs.aau.dk/) and [Prof. Yan Zhao](https://yan20191113.github.io/)
