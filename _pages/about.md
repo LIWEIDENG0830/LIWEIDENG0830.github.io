@@ -27,7 +27,7 @@ My research interests mainly lie in **spatio-temporal data management and mining
 
 - **Trajectory Computing:** trajectory representation, similarity learning, and similarity search. [[PVLDB'26](#paper-pvldb26-lbtrajrep)] [[ICDE'25](#paper-icde25-simsub)] [[ICDE'24](#paper-icde24-trajhash)] [[CIKM'22](#paper-cikm22-cltsim)]
 - **Spatial Crowdsourcing:** task recommendation and assignment in spatial crowdsourcing. [[ICDE'24](#paper-icde24-taskrec)] [[TOIS](#paper-tois-adataskrec)]
-- **High-Dimensional Similarity Search:** efficient approximate and constrained nearest-neighbor search. [[PVLDB'25](#paper-pvldb25-dade)] [[ICDE'25](#paper-icde25-cann)]
+- **High-Dimensional Similarity Search:** efficient approximate nearest-neighbor search. [[PVLDB'25](#paper-pvldb25-dade)] [[ICDE'25](#paper-icde25-cann)]
 
 
 <!-- 
