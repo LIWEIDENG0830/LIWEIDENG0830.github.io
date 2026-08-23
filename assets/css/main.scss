@@ -107,3 +107,24 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+/* In-page links from Research Interests to representative papers */
+html {
+  scroll-behavior: smooth;
+}
+
+.paper-anchor {
+  scroll-margin-top: 5rem;
+}
+
+/* Google Scholar citation badge beside Publications heading */
+.scholar-citation-badge {
+  display: inline-block;
+  margin-left: 0.35rem;
+  vertical-align: middle;
+  line-height: 1;
+}
+
+.scholar-citation-badge img {
+  height: 1.05em;
+  vertical-align: -0.08em;
+}
