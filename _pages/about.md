@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2027. One is for trajectory dataset condensation and the other is for dynamic ANN search. 
+- *2026.09*: &nbsp;🎉🎉 Two papers on trajectory dataset condensation and dynamic ANN search are accepted by ICDE 2027.
 - *2026.08*: &nbsp;🎉🎉 One paper is accepted by CIKM 2026.
 - *2026.08*: &nbsp;🎉🎉 One paper is accepted by PVLDB 2026.
 - *2026.05*: &nbsp;🎉🎉 I was invited as Proceedings Chair of [ADC 2026](https://adc-conference.github.io/2026/organisation). 
