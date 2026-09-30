@@ -192,7 +192,8 @@ https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/cona
 # ⏳ Professional Services
 
 #### PC Member and Reviewer
-- 2026: ICDE, KDD, SIGSPATIAL, ICDM, IJCAI, WSDM, CIKM, PAKDD, DASFAA
+- 2027: ICDE, KDD, WWW, DASFAA
+- 2026: KDD, SIGSPATIAL, ICDM, IJCAI, WSDM, CIKM, PAKDD
 - 2025: KDD, IJCAI, CIKM, BigData
 - 2024: KDD, IJCAI, CIKM
 - 2023: IJCAI, CIKM, AAAI, BDMS@DASFAA
