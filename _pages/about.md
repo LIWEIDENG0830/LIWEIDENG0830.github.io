@@ -136,7 +136,7 @@ https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/cona
 **Selected Journal Papers**
 1. <span style="color:blue">[TKDE]</span> Yuchen Fang, Hao Miao, Yuxuan Liang, **Liwei Deng**, Yue Cui, Ximu Zeng, Yuyang Xia, Yan Zhao, Torben Bach Pedersen, Christian S. Jensen, Xiaofang Zhou, Kai Zheng. Unreveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review. \[[Paper](https://arxiv.org/abs/2506.01364)\] \[[Github](https://github.com/LMissher/Awesome-Spatio-Temporal-Foundation-Models)\] <span style="color:red">**(Core A*, CCF A)**</span>
 2. <span style="color:blue">[VLDBJ]</span> Yan Zhao, Kai Zheng, Ziwei Wang, **Liwei Deng**, Bin Yang, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou. Coalition-based task assignment with priority-aware fairness in spatial crowdsourcing. \[[Paper](https://link.springer.com/article/10.1007/s00778-023-00802-3)\] <span style="color:red">**(Core A*, CCF A)**</span>
-3. <span id="paper-tois-adataskrec" class="paper-anchor"></span><span style="color:blue">[TOIS]</span> Yan Zhao<sup>+</sup>, **Liwei Deng<sup>+</sup>**, Kai Zheng. AdaTaskRec: An adaptive task recommendation framework in spatial crowdsourcing. \[[Paper](https://dl.acm.org/doi/full/10.1145/3593582)\] <span style="color:red">**(Core A*, CCF A)**</span>
+3. <span id="paper-tois-adataskrec" class="paper-anchor"></span><span style="color:blue">[TOIS]</span> Yan Zhao <sup>+</sup>, **Liwei Deng <sup>+</sup>**, Kai Zheng. AdaTaskRec: An adaptive task recommendation framework in spatial crowdsourcing. \[[Paper](https://dl.acm.org/doi/full/10.1145/3593582)\] <span style="color:red">**(Core A*, CCF A)**</span>
 4. <span style="color:blue">[TIST]</span> **Liwei Deng**, Hao Sun, Rui Sun, Yan Zhao, Han Su. Efficient and effective similar subtrajectory search: a spatial-aware comprehension approach. \[[Paper](https://dl.acm.org/doi/full/10.1145/3456723)\]
 5. <span style="color:blue">[WWWJ]</span> Xuanhao Chen, **Liwei Deng**, Yan Zhao, Xiaofang Zhou, Kai Zheng. Community-based influence maximization in location-based social network. In WWWJ. \[[Paper](https://link.springer.com/article/10.1007/s11280-021-00935-x)\] <span style="color:red">**(Core A, CCF B)**</span>
 
@@ -145,11 +145,9 @@ https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/cona
 1. **Liwei Deng**, Penghao Chen, Ximu Zeng, Tianfu Wang, Yan Zhao, Kai Zheng. Accelerating Distance Comparison Operation for Maximum Inner Product Search. In KDD 2025. 
 
 **Working Papers**
-1. Yupu Zhang<sup>+</sup>, **Liwei Deng**<sup>+</sup>, Ximu Zeng, Yan Zhao, Kai Zheng. TrajDC: Trajectory Dataset Condensation for Efficient Trajectory Similarity Learning. (Submitted to VLDB, * Equal Contribution)
 4. Yuyang Xia, Xu Chen, Shuncheng Liu, Zibo Liang, **Liwei Deng**, Han Su, Kai Zheng. TRADE: Collaborative Configuration Tuning for Efficient Cross-camera Video Processing.
 5. Ke Fang, Qilin Fan, Tianfu Wang, **Liwei Deng**, Chao Chen, Xiuhua Li. Beyond Correlation: A Causal Graph Approach to Fair and Stable Federated Traffic Forecasting.
 6. Tianfu Wang, Qilin Fan, Chao Wang, Chuan Qin, **Liwei Deng**, Junyang Wang, Wei Wu, Zhengyu Hu, Li Shen, Hui Xiong. CONAL: Towards Constraint-aware Learning for Resource Allocation in NFV-enabled Networks. \[[Paper](https://arxiv.org/abs/2410.22999)\] \[[code](https://github.com/GeminiLight/conal-vne)\]
-7. Ximu Zeng, Xinjie Lin, **Liwei Deng**, Ran Xu, Shiyuan Deng, Han Su, Kai Zheng. D-LIRA: Lightweight Index Maintenance for Dynamic Partition-Based ANN Search.
 8. Ximu Zeng, **Liwei Deng**, Huan Li, Yan Zhao, Kai Zheng. Optimizing Joint Drone-Worker Task Assignment in Spatial Crowdsourcing.
 9. Yan Zhao, **Liwei Deng**, Xuanhao Chen, Chenjuan Guo, Bin Yang, Tung Kieu, Feiteng Huang, Torben Bach Pedersen, Kai Zheng, Christian S Jensen. A comparative study on unsupervised anomaly detection for time series: Experiments and analysis. Arxiv Preprint 2022. \[[Paper](https://arxiv.org/abs/2209.04635)\]
 -->
